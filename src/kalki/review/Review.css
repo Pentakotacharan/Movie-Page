@@ -1,0 +1,32 @@
+.review{
+    width: 100%;
+    margin: 20px 40px;
+    display: flex;
+}
+.rev{
+    width: 100%;
+    padding-left: 30px;
+}
+
+.review-right{
+    flex-basis: 96%;
+}
+ .review h1 {
+    margin: 0;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-weight: 16px;
+    color: blue;
+     top: 0;
+    margin: 10px 0;
+    max-width: 300px;
+}
+.review p{
+     margin: 0;
+     padding: 10px 20px;
+    font-weight: 16px;
+    color: blue;
+     top: 0;
+     bottom: 0;
+     max-width: 900px;
+}
